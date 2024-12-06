@@ -5,3 +5,8 @@
     --cinza-claro: #5C5C5F;
     --branco: #ffffff;
 }
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+}
